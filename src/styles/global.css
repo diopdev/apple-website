@@ -178,3 +178,63 @@ main .iphone-section .text-wrapper {
     align-items: center;
     margin-top: 51px;
 }
+
+
+
+
+
+main .apple-products-section .products {
+    display: grid;
+    grid-template-columns: 46.1rem 39.7rem;
+    gap: 12px;
+    justify-content: center;
+}
+
+main .apple-products-section .products .product .text-wrapper { 
+    align-items: center;
+    margin-top: 51px;
+    
+}
+main .apple-products-section .products .product .text-light { 
+    align-items: center;
+    margin-top: 51px;
+    color: var(--text-light);
+    
+}
+
+
+
+
+main .apple-products-section .product-iphone {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/iphone14pro.png);
+}
+main .apple-products-section .product-ipad {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/Ipad.png);
+}
+main .apple-products-section .product-air_pods {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/airpods.png);
+}
+
+
+
+main .apple-products-section .product-watch {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/watch.png);
+}
+main .apple-products-section .product-watch_ultra {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/watchultra.png);
+}
+main .apple-products-section .product-card {
+    width: 46.1rem;
+    height: 39.7rem;
+    background-image: 	url(/src/public/assets/apple-card.png);
+}
