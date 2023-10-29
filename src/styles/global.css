@@ -253,17 +253,6 @@ main .apple-products-section .product-card {
     justify-content: center;
 }
 
-footer section{
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-}
-
-
-footer .items-footer{
-    width: 64rem;
-    height: 64.6rem;
-}
 
 footer .items-footer ul {
     width: 61.2rem;
@@ -271,6 +260,9 @@ footer .items-footer ul {
     margin-top: 20px;
     margin-bottom: 30px;
     text-align: justify;
+}
+footer .apple-directory li {
+    padding: 0.2rem;
 }
 
 footer .apple-directory{
@@ -280,15 +272,19 @@ footer .apple-directory{
     grid-template-columns: 12.2rem 12.2rem 12.2rem 12.2rem 12.2rem;
 }
 
-
-
 footer .apple-directory h4 {
    color: var(--text-dark);
 }
 
-footer .apple-directory li {
-    padding: 0.2rem;
+footer .copyright {
+    margin-top: 150px;
 }
 
-
+footer .copyright .copy-policy{
+    padding-bottom: 0.8rem;
+}
+ footer .copyright .copy-copyright{
+    padding: 0.8rem 0;
+    text-align: left;
+ }
 
