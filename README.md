@@ -24,7 +24,7 @@ These aspects are fundamental in empowering developers to enhance their skills i
 
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
-**Front-end:** HTML, CSS, AWS 
+**Front-end:** HTML, CSS
 
 
 ## Deploy
